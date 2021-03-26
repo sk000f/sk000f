@@ -14,11 +14,11 @@ I enjoy sharing my knowledge and experience on ![Medium](https://medium.com/@sk0
 
 ## :computer: Open Source
 
-I'm currently building mostly with Go, MongoDB and Kubernetes so keen to contribute to any projects in those spaces.
+I'm currently building mostly with Go, MongoDB and Kubernetes so keen to contribute to any projects in those spaces
 
-Particularly interested in getting further into Chaos Engineering, Observability and Security.
+Particularly interested in getting further into Chaos Engineering, Observability and Security
 
-Previously worked with a wide variety of tech such as Java, Spring Boot, JavaScript, NodeJS, React, C#, PHP and more.
+Previously worked with a wide variety of tech such as Java, Spring Boot, JavaScript, NodeJS, React, C#, PHP and more
 
 ## :mailbox: Contact
 
