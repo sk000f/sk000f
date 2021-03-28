@@ -21,9 +21,9 @@ I enjoy sharing my knowledge and experience on ![Medium](https://medium.com/@sk0
 
 ## :computer: Open Source
 
-I'm currently building mostly with Go, MongoDB and Kubernetes so keen to contribute to any projects in those spaces
+I'm currently building mostly with Go and keen to contibute to more projects
 
-Particularly passionate about DevOps and SRE and interested in contributing further to Automation, CI/CD, Chaos Engineering, Observability and Security
+Particularly passionate about DevOps and SRE, so also interested in contributing further to anything around Automation, CI/CD, Chaos Engineering, Observability and Security
 
 Previously worked with a wide variety of tech such as Java, Spring Boot, JavaScript, NodeJS, React, C#, PHP and more
 
