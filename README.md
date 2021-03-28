@@ -6,7 +6,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-444444?logo=docker)
 ![Terraform](https://img.shields.io/badge/-Terraform-444444?logo=terraform)
 ![Grafana](https://img.shields.io/badge/-Grafana-444444?logo=grafana)
-![Prometheus](https://img.shields.io/badge/-Prometheus-444444?logo=linux)
+![Prometheus](https://img.shields.io/badge/-Prometheus-444444?logo=prometheus)
 ![Linux](https://img.shields.io/badge/-Linux-444444?logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-444444?logo=ubuntu)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-444444?logo=visual-studio-code)
