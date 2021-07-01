@@ -13,7 +13,7 @@
 
 ## :office: Work
 
-I'm an experienced engineer, architect and technical leader currently based in Manchester, UK and working as Principal Software Engineer at ![Jaguar Land Rover](https://www.jaguarlandrover.com/) :car:
+I'm an experienced engineer, architect and technical leader currently based working as Principal Engineer and DevOps Architect
 
 ## :black_nib: Writing
 
