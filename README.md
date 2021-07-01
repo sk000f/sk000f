@@ -17,7 +17,7 @@ I'm an experienced engineer, architect and technical leader currently based work
 
 ## :black_nib: Writing
 
-I enjoy sharing my knowledge and experience on ![Medium](https://medium.com/@sk000f) and ![DEV](https://dev.to/sk000f)
+I enjoy sharing my knowledge and experience on [Medium](https://medium.com/@sk000f) and [DEV](https://dev.to/sk000f)
 
 ## :computer: Open Source
 
@@ -29,4 +29,4 @@ Previously worked with a wide variety of tech such as Java, Spring Boot, JavaScr
 
 ## :mailbox: Contact
 
-Find me on ![LinkedIn](http://linkedin.com/in/mikeskaife) or follow me on Twitter ![@sk000f](https://twitter.com/sk000f) 
+Find me on [LinkedIn](http://linkedin.com/in/mikeskaife) or follow me on Twitter [@sk000f](https://twitter.com/sk000f) 
