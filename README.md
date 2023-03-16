@@ -1,6 +1,6 @@
 :wave: Hi, I’m Mike Skaife @sk000f
 
-![Golang](https://img.shields.io/badge/-Golang-444444?logo=golang)
+![Go](https://img.shields.io/badge/-Go-444444?logo=go)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-444444?logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-444444?logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-444444?logo=docker)
