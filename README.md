@@ -12,7 +12,7 @@
 
 ## :office: Work
 
-I'm an experienced software engineer, architect and technical leader working as a CTO and Principal Engineer.
+I'm an experienced software engineer, architect and technical leader working as a CTO and building my own solopreneur businesses.
 
 ## :black_nib: Writing
 
@@ -20,9 +20,9 @@ I enjoy sharing my knowledge and experience on [my website](https://mikeskaife.c
 
 ## :computer: Open Source
 
-I'm currently building mostly with TypeScript and Golang and am keen to contribute to more projects.
+I'm currently building mostly with Golang and TypeScript and am keen to contribute to more projects.
 
-Particularly passionate about DevOps and SRE, so also interested in contributing further to anything around Automation, CI/CD, Chaos Engineering and Observability.
+Particularly passionate about AI, DevOps and SRE, so also interested in contributing further to anything around Automation, CI/CD, Chaos Engineering and Observability.
 
 ## :mailbox: Contact
 
