@@ -1,9 +1,10 @@
 :wave: Hi, I’m Mike Skaife @sk000f
 
+![Go](https://img.shields.io/badge/-Go-444444?logo=go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-444444?logo=typescript)
 ![Node](https://img.shields.io/badge/-Node.js-444444?logo=node.js)
-![Go](https://img.shields.io/badge/-Go-444444?logo=go)
+![React](https://img.shields.io/badge/-React-444444?logo=react)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-444444?logo=graphql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-444444?logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-444444?logo=postgresql)
