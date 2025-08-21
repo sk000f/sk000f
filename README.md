@@ -8,8 +8,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-444444?logo=graphql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-444444?logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-444444?logo=postgresql)
-![AWS](https://img.shields.io/badge/-AmazonWebServices-444444?logo=amazonwebservices)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-444444?logo=kubernetes)
 
 ## :office: Work
 
