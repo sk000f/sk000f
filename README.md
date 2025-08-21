@@ -13,7 +13,7 @@
 
 ## :office: Work
 
-I'm an experienced software engineer, architect and technical leader working as a CTO and building my own solopreneur businesses.
+I'm an experienced software engineer, architect and technical leader working as a fractional tech leader and building my own solopreneur businesses.
 
 ## :black_nib: Writing
 
