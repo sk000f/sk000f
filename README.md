@@ -1,4 +1,4 @@
-:wave: Hi, I’m Skoof
+:wave: Hi, I’m Mike Skaife (Skoof)
 
 ![Go](https://img.shields.io/badge/-Go-444444?logo=go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?logo=javascript)
