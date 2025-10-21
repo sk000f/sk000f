@@ -1,6 +1,5 @@
 :wave: Hi, I’m Mike Skaife (Skoof)
 
-![Go](https://img.shields.io/badge/-Go-444444?logo=go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-444444?logo=typescript)
 ![Node](https://img.shields.io/badge/-Node.js-444444?logo=node.js)
