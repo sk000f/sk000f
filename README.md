@@ -10,7 +10,7 @@
 
 ## :office: Work
 
-I'm an experienced software engineer, architect and technical leader working as a hands-on fractional CTO and building my own solopreneur businesses.
+I'm an experienced software engineer, architect and manager working as a hands-on technical leader and building my own solopreneur businesses.
 
 ## :black_nib: Writing
 
@@ -18,7 +18,7 @@ I enjoy sharing my knowledge and experience on [my website](https://mikeskaife.c
 
 ## :computer: Open Source
 
-I'm currently building mostly with Golang and TypeScript and am keen to contribute to more projects.
+I'm currently building mostly with TypeScript and am keen to contribute to more projects.
 
 Particularly passionate about AI, DevOps and SRE, so also interested in anything around Automation, CI/CD, Chaos Engineering and Observability.
 
