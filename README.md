@@ -1,4 +1,4 @@
-:wave: Hi, I’m Mike Skaife (Skoof)
+:wave: Hi I’m Mike Skaife aka Skoof
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-444444?logo=typescript)
@@ -9,11 +9,11 @@
 
 ## :office: Work
 
-I'm an experienced software engineer, architect and manager working as a hands-on technical leader and building my own solopreneur businesses.
+I'm an experienced software engineer, architect and tech leader working as a hands-on Head of Technology in fintech and building my own solopreneur businesses.
 
 ## :black_nib: Writing
 
-I enjoy sharing my knowledge and experience on [my website](https://mikeskaife.com) where I also share my talks and podcast appearances.
+I enjoy sharing my knowledge and experience on [my website](https://skoof.co.uk) where I also share my talks and podcast appearances.
 
 ## :computer: Open Source
 
