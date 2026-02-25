@@ -23,4 +23,4 @@ Particularly passionate about AI, DevOps and SRE, so also interested in anything
 
 ## :mailbox: Contact
 
-Find me on [LinkedIn](http://linkedin.com/in/mikeskaife) or follow me on Twitter [@sk000f](https://twitter.com/sk000f) 
+Find me on [LinkedIn](http://linkedin.com/in/mikeskaife) or follow me on X [@iamskoof](https://x.com/iamskoof) 
