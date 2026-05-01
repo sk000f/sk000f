@@ -9,17 +9,11 @@
 
 ## :office: Work
 
-I'm an experienced software engineer, architect and tech leader working as a hands-on Head of Technology in fintech and building my own solopreneur businesses.
+I'm an experienced hands-on CTO working in fintech as well as building my own solopreneur businesses.
 
 ## :black_nib: Writing
 
 I enjoy sharing my knowledge and experience on [my website](https://skoof.co.uk) where I also share my talks and podcast appearances.
-
-## :computer: Open Source
-
-I'm currently building mostly with TypeScript and am keen to contribute to more projects.
-
-Particularly passionate about AI, DevOps and SRE, so also interested in anything around Automation, CI/CD, Chaos Engineering and Observability.
 
 ## :mailbox: Contact
 
